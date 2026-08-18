@@ -1,0 +1,28 @@
+{
+  "name": "react-pro",
+  "version": "1.0.0",
+  "description": "Everything is nothing",
+  "homepage": "https://github.com/akashgautamcse-glitch/Food-Delivery-App#readme",
+  "bugs": {
+    "url": "https://github.com/akashgautamcse-glitch/Food-Delivery-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashgautamcse-glitch/Food-Delivery-App.git"
+  },
+  "license": "ISC",
+  "author": "Akash Gautam",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
